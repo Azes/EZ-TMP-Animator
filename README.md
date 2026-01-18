@@ -3,6 +3,8 @@
 **EZ TMP Animator** is a powerful and lightweight Unity tool designed to bring your **TextMeshPro** UI to life. It allows you to create complex, high-performance text animations by manipulating individual characters through rich text tags automatically.
 ---
 <p align="center"><img src="preview/Screenshot%202026-01-18%20090510.png" width="20%" />
+<img src="preview/s1.png" width="20%" />
+<img src="preview/s2.png" width="20%" />
    
 ---
 
@@ -41,26 +43,25 @@ void Start() {
     myAnimator.SetAnimationState(0.5f);
 }
 ````
+___
 
 ⚠️ Important Note on Control
 
+```
 The EZ TMP Animator takes full control over the attached TextMeshProUGUI component.
-
-    Managed by Animator: Text content, Size, Color, Spacing, and Spacing-Offsets.
-
-    Managed by TMP Component: Alignment/Orientation and Layout settings.
-
-    Please adjust all styling directly within the EZ TMP Animator inspector for it to take effect.
-
+Managed by Animator: Text content, Size, Color, Spacing, and Spacing-Offsets.
+Managed by TMP Component: Alignment/Orientation and Layout settings.
+Please adjust all styling directly within the EZ TMP Animator inspector for it to take effect.
+```
+---
 📂 Installation
 
-    Download and import the script into your Unity project.
+   >1. Download wie unitypackage and drag and drop it in the project window to import.
+   >2. Ensure you have TextMeshPro (TMP) installed via the Package Manager.
+   >3. Add the TMP_Animation component to any GameObject that has a TextMeshProUGUI component.
+   >4. The editor icons are linked via GUID to ensure they work even if you move the folder.
 
-    Ensure you have TextMeshPro (TMP) installed via the Package Manager.
-
-    Add the TMP_Animation component to any GameObject that has a TextMeshProUGUI component.
-
-    The editor icons are linked via GUID to ensure they work even if you move the folder.
+---
 
 👤 Created by AzeS
 🌐 [Visit my Website](https://www.azes-openeyes.de/)
