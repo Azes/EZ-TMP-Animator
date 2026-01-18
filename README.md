@@ -53,3 +53,33 @@ void Start() {
     // Set animation progress (0.0 to 1.0)
     myAnimator.SetAnimationState(0.5f);
 }
+
+⚠️ Important Note on Control
+
+The EZ TMP Animator takes full control over the attached TextMeshProUGUI component.
+
+    Managed by Animator: Text content, Size, Color, Spacing, and Spacing-Offsets.
+
+    Managed by TMP Component: Alignment/Orientation and Layout settings.
+
+    Please adjust all styling directly within the EZ TMP Animator inspector for it to take effect.
+
+📂 Installation
+
+    Download and import the script into your Unity project.
+
+    Ensure you have TextMeshPro (TMP) installed via the Package Manager.
+
+    Add the TMP_Animation component to any GameObject that has a TextMeshProUGUI component.
+
+    The editor icons are linked via GUID to ensure they work even if you move the folder.
+
+👤 Author
+
+Created by AzeS
+
+🌐 [Visit my Website](https://www.azes-openeyes.de/)
+
+📄 License
+
+Free to use for everything! This tool is provided for free for both personal and commercial projects. You are free to modify, distribute, and use it forever.
