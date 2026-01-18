@@ -22,18 +22,18 @@
 
 *(Add your GIFs or Screenshots here to showcase your tool!)*
 
-| Feature | Preview |
+| Preview |
 | :--- | :--- |
-| ![e1](https://your-link-here.com/image1.gif) |
-| ![e2](https://your-link-here.com/image2.gif) |
-| ![e3](https://your-link-here.com/image2.gif) |
-| ![e4](https://your-link-here.com/image2.gif) |
-| ![e5](https://your-link-here.com/image2.gif) |
-| ![e6](https://your-link-here.com/image2.gif) |
-| ![e7](https://your-link-here.com/image2.gif) |
-| ![e8](https://your-link-here.com/image2.gif) |
-| ![e9](https://your-link-here.com/image2.gif) |
-| ![e10](https://your-link-here.com/image2.gif) |
+| ![e1](preview/e1.gif) |
+| ![e2](preview/e2.gif) |
+| ![e3](preview/e3.gif) |
+| ![e4](preview/e4.gif) |
+| ![e5](preview/e5.gif) |
+ ![e6](preview/e6.gif) |
+ ![e7](preview/e7.gif) |
+ ![e8](preview/e8.gif) |
+ ![e9](preview/e9.gif) |
+ ![e10](preview/e10.gif) |
 ---
 
 ## 🛠 Usage & Integration
