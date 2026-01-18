@@ -1,7 +1,9 @@
 # EZ TMP Animator
 
 **EZ TMP Animator** is a powerful and lightweight Unity tool designed to bring your **TextMeshPro** UI to life. It allows you to create complex, high-performance text animations by manipulating individual characters through rich text tags automatically.
-
+---
+<p align="center"><img src="preview/Screenshot%202026-01-18%20090510.png" width="20%" />
+   
 ---
 
 ## 🚀 Features
@@ -18,23 +20,8 @@
 
 ---
 
-## 📸 Examples & Screenshots
-
-*(Add your GIFs or Screenshots here to showcase your tool!)*
-
-| Preview |
-| :--- | :--- |
-| ![e1](preview/e1.gif) |
-| ![e2](preview/e2.gif) |
-| ![e3](preview/e3.gif) |
-| ![e4](preview/e4.gif) |
-| ![e5](preview/e5.gif) |
- ![e6](preview/e6.gif) |
- ![e7](preview/e7.gif) |
- ![e8](preview/e8.gif) |
- ![e9](preview/e9.gif) |
- ![e10](preview/e10.gif) |
----
+## 📸 Examples 
+<p align="center"> <img src="preview/e1.gif" width="48%" /> <img src="preview/e2.gif" width="48%" /> <img src="preview/e3.gif" width="48%" /> <img src="preview/e4.gif" width="48%" /> <img src="preview/e5.gif" width="48%" /> <img src="preview/e6.gif" width="48%" /> <img src="preview/e7.gif" width="48%" /> <img src="preview/e8.gif" width="48%" /> <img src="preview/e9.gif" width="48%" /> <img src="preview/e10.gif" width="48%" /> </p>
 
 ## 🛠 Usage & Integration
 
@@ -53,6 +40,7 @@ void Start() {
     // Set animation progress (0.0 to 1.0)
     myAnimator.SetAnimationState(0.5f);
 }
+````
 
 ⚠️ Important Note on Control
 
@@ -74,11 +62,10 @@ The EZ TMP Animator takes full control over the attached TextMeshProUGUI compone
 
     The editor icons are linked via GUID to ensure they work even if you move the folder.
 
-👤 Author
-
-Created by AzeS
-
+👤 Created by AzeS
 🌐 [Visit my Website](https://www.azes-openeyes.de/)
+
+---
 
 📄 License
 
